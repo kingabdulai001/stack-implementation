@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets and OS files
+.env
+.DS_Store
+Thumbs.db
+
+# Note: input.txt and output.txt are required submission files and are NOT ignored.

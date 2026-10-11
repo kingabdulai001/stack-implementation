@@ -1,0 +1,15 @@
+ERROR: missing operand before '*' (position 5)
+-----
+ERROR: unmatched '(' - missing closing ')'
+-----
+ERROR: unmatched ')' - no opening '(' for it
+-----
+ERROR: division by zero
+-----
+ERROR: unsupported character '$' (position 3)
+-----
+ERROR: missing operator before '4' (position 3)
+-----
+
+-----
+42
